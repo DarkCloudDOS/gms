@@ -12,12 +12,11 @@ Pascal 7 is not enough, the game/engine must
 run under protected mode, to utilize memory as needed) in order to compile it.
 
 ## Images
-Loading screen
-![](gms-load.png?raw=true)
 
-Game play
-![](gms.png?raw=true)
+![Loading screen](gms-load.png?raw=true)
 
-Picture editors included in source
-![](pe16x16.png?raw=true)
-![](pe32x32.png?raw=true)
+![Game play](gms.png?raw=true)
+
+![Picture editor included in source - 16x16](pe16x16.png?raw=true)
+
+![Picture editors included in source - 32x32](pe32x32.png?raw=true)
